@@ -1,12 +1,12 @@
 # Todo App
 
-[Demo](https://tamara-ostapets.github.io/todo-app/)
+### [Demo](https://tamara-ostapets.github.io/todo-app/)
 
 ---
 
-### Used Technologies and methodologies:
+## Used Technologies and methodologies:
 
-HTML5/CSS3, JavaScript (ECMAScript 2020), jsx, React:
+HTML5/CSS3, JavaScript (ECMAScript 2020), React:
   * functional components
   * conntrolled components in `form` element
   * lifting state up; state & lifecycle
