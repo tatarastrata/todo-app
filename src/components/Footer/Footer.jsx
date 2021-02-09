@@ -1,6 +1,6 @@
 import React from 'react';
-import { FILTERS } from '../../constants';
 import PropTypes from 'prop-types';
+import { FILTERS } from '../../constants';
 import { TypeTodo } from '../../types';
 
 export const Footer = ({
